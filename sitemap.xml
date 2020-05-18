@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <sitemap>
-    <loc>https://hadits.net/bukhari.xml</loc>
-  </sitemap>
-
+<sitemap>
+<loc>https://hadits.net/sitemap/abu-daud.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/ahmad-01.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/ahmad-02.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/ahmad-03.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/bukhari.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/darimi.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/ibnu-majah.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/malik.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/muslim.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/nasai.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://hadits.net/sitemap/tirmidzi.xml</loc>
+</sitemap>
 </sitemapindex>
